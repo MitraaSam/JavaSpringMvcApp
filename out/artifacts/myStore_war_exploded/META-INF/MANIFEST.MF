@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: sam_m
+Build-Jdk: version 1.8.0_311
+
